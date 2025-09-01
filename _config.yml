@@ -1,0 +1,8 @@
+# GitHub Pages Configuration for Amento
+# Academic Mentor Directory
+
+# Site settings
+title: Amento - PhD Opportunities Directory
+description: A comprehensive directory of academic mentors and research opportunities, including PhD positions, internships, and other openings.
+url: https://amento-info.github.io
+baseurl: ""
